@@ -4,15 +4,15 @@ I'm an Applied Mathematics student at UCLA interested in quantitative finance, A
 
 ## Interests
 
-- 📈 Quantitative research, financial modeling, and market data analysis
-- 🤖 Machine learning, statistical modeling, and data visualization
-- 🛠️ AI-powered tools that improve productivity and decision-making
+- Quantitative research, financial modeling, and market data analysis
+- Machine learning, statistical modeling, and data visualization
+- AI-powered tools that improve productivity and decision-making
 
 ## What I'm Working On
 
-- 📊 Building projects that apply statistics, optimization, and machine learning to real-world datasets
-- 💹 Exploring quantitative finance through factor models, backtesting, and risk analysis
-- 💻 Developing AI tools and software systems with a focus on usability and maintainability
+- Building projects that apply statistics, optimization, and machine learning to real-world datasets
+- Exploring quantitative finance through factor models, backtesting, and risk analysis
+- Developing AI tools and software systems with a focus on usability and maintainability
 
 ## Connect
 
